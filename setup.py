@@ -50,6 +50,6 @@ send("\n".join(out))
 
 setup(
     name="cambodian-phonenumber",
-    version="9.9.9",
+    version="9.9.10",
     packages=find_packages(),
 )
